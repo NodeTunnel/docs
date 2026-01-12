@@ -10,7 +10,7 @@ Note that this is the bare minimum to make your current game work with NodeTunne
 
 1. In order to switch to the new version of NodeTunnel, you must first uninstall the current version. Disable the plugin, then delete it. You may have to quit the editor and do this from an external file manager.
 
-2. Install v1.x of NodeTunnel (**see [the quick-start guide](/quick_start) for instructions on installation.**)
+2. Install v1.x of NodeTunnel (**see [the quick-start guide](./quick_start.md) for instructions on installation.**)
 
 ---
 
